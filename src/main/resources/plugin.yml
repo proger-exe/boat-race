@@ -1,0 +1,17 @@
+name: Race
+version: ${project.version}
+main: dev.sh3lby.race.RacePlugin
+api-version: '1.21'
+author: sh3lby.code
+description: Boat races on a configured track, no sign-up.
+softdepend: [WorldEdit, FastAsyncWorldEdit]
+
+commands:
+  race:
+    description: Run a boat race for everyone online, leave one, or set the track up.
+    usage: /race [leave | start [круги] | stop | setworld | addstart | setfinish <+X..-Z> | addcp | clear <starts|cp> [last]]
+
+permissions:
+  race.admin:
+    description: Start and stop races, set the track up.
+    default: op
