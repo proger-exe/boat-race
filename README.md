@@ -1,7 +1,7 @@
 # Race
 
 <!-- portfolio-card:start -->
-[![sh3lby.code — нейтральная обложка](docs/portfolio/card.png)](docs/portfolio/card.svg)
+[![Boat Race — Лодки, контрольные точки и гонка за лучшим кругом.](docs/portfolio/card.png)](docs/portfolio/card.svg)
 <!-- portfolio-card:end -->
 
 Гонки на лодках для Paper 1.21: одна трасса в отдельном мире, один активный заезд,
